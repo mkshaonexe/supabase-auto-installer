@@ -1,0 +1,2 @@
+# supabase-auto-installer
+sad
